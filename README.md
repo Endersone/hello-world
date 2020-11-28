@@ -1,2 +1,2 @@
 # hello-world
-Repositório "hello-world" criado para aprendizado
+Repositório "hello-world" criado para fins de aprendizagem
